@@ -1,0 +1,10 @@
+.class1{
+    clear: left;
+}
+
+body{
+    background-image: url("image/lofi-wallpaper-idlewp-5.jpg");
+    background-attachment: fixed;
+    background-size:cover;
+    background-repeat:unset;
+  }
